@@ -1,0 +1,4 @@
+#忽略项目的配置文件
+.idea
+out
+Groups.iml
